@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/laowangdh/laowangdh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laowangdh/laowangdh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>老王福利导航-打造绿色简洁的宅男第一福利导航站航大全-狼友之家</title>
+<meta name="keywords" content="老王福利导航收录网络上的最具人气的宅男福利站点,只收录精品福利网站,打造绿色简洁的宅男第一福利导航站航大全|爱你啪黑木耳在线AV导航,粉色导航,百姓色夜趣福利,500福利导航,巨人导航,福利导航大全,500第一精品福利导航,雪B导航网,91porn,发布页,地址发布页，蓝色导航" />
+<meta name="description" content="老王福利导航专门收录一些福利网站宅男福利,宅男福利导航,第一福利导航,美国导航，农夫导航，十次啦导航，蓝色导航，蓝色AV导航，蓝色福利导航，银色导航,
+福利导航,宅男福利导航大全,黑木耳导航,碧玉福利导航、AV导航、成人电影、综合色站、成人图片、成人小说、成人论坛、在线视频、国外色站、超碰在线视频" />
+<link rel="shortcut icon" href="./img/lw.png">
+<link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+<div class="header_bg">
+<div id="header">
+<h1 id="logo"><a href="" title="" target="_self"><img src="img/035.png" /></a></h1>
+<div id="topimg"><i class="fa fa-check-circle pad5" aria-hidden="true"></i>全面准确•更新及时•纯净无毒◆【撸友良心站点◆关注用户体验】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #fff;">按Ctrl+D收藏</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: #fff">永久域名：www.Lwdh.in</span>
+</div>
+</div>
+</div>
+<div class="nav">
+<ul>
+<li><a href="" target="_self"><i class="fa fa-home pad5" aria-hidden="true"></i>【收藏本页】</a></li>
+<li><a href="" target="_blank"><i class="fa fa-plus-circle pad5" aria-hidden="true"></i>【永不迷路】</a></li>
+<li class="fabu"><a href="" target="_blank"><i class="fa fa-paper-plane-o pad5" aria-hidden="true"></i>永久地址发布页（记得收藏哦）</a></li>
+<li class="slogan"><i class="fa fa-envelope-o pad5" aria-hidden="true"></i>（本页面长期有效）</li>
+</ul>
+</div>
+<div class="main">
+<div class="banner">
+<p style="background:#0a3632;margin:10px 0 10px;padding:10px;font-size:13px;">
+<font color="Black"><b><font color="#FFFFFF"><i class="fa fa-bullhorn" aria-hidden="true"></i>注：永久地址发布页，本页面于2021年3月11日更新。</font></b></font>
+</p>
+<p style="background:#FFFFFF;margin:-8px 0 10px;padding:10px;font-size:13px;">
+<b>
+<font color="Black">&nbsp;&nbsp;<font color="#FF0000"><i class="fa fa-bullhorn" aria-hidden="true"></i>&nbsp;公告：</font>
+<a href="http://lwd.lwfuli.com:2052/" target="_blank" style="color:#ff0000"><b>点击进入①</b></a>&nbsp;&nbsp;
+<a href="http://lwd.lwfuli.com:2052/" target="_blank" style="color:#008000">&nbsp;<b>点击进入②</b></a>&nbsp;&nbsp;
+<a href="http://lwd.lwfuli.com:2052/" target="_blank" style="color:#0000FF">&nbsp;<b>点击进入③</b></a>
+</font>
+</b>
+</p>
+</div>
+<center>
+<div style="border: 2px solid #dc4040;background-color: #ffffff;text-align: center;padding: 10px 0px;color: #FFF;font-size: 15px; width:250px;">
+<a href="http://lwd.lwfuli.com:2052/" target="_blank"><strong style="color: #000000;">【请点击这里进入本网站】</strong></a></div><p></p><br>
+<div style="border: 2px solid #dc4040;background-color: #ffffff;text-align: center;padding: 10px 0px;color: #FFF;font-size: 15px; width:150px;">
+<a href="http://fabu.lwfuli.com:2095/fabu/fabu.php" target="_blank"><strong style="color: #000000;">【备用地址】</strong></a></div><p></p><br>
+</center>
+<div style="border: 2px solid #dc4040;background-color: #165852;text-align: center;padding: 10px 0px;color: #FFF;font-size: 30px;">
+<a href="" target="_blank"><strong style="color: #ffd400;">请您牢记本站地址发布页</strong></a></div>
+<div style="border: 2px solid #dc4040;background-color: #165852;text-align: center;padding: 10px 0px;color: #FFF;font-size: 25px;"><a href="https://99tvb.msplaytv.com:188/index.php/vod/type/id/20.html?code=1003" target="_blank"><strong style="color: #ffd400;">强烈推荐→国产高清、秒播</strong></a></div>
+<p style="text-align: center; background: #009f95; height: 40px; line-height: 40px; color:#FFF; font-size: 25px;"><strong>老王福利——亚洲成人导航网</strong></p>
+<p style="text-align: center; background: #009f95; height: 40px; line-height: 40px; color:#FFF; font-size: 20px;"><strong>收藏本页到书签，避免遗失本站。</strong></p>
+<p style="text-align: center; background: #009f95; height: 40px; line-height: 40px; color:#000000; font-size: 18px;"><strong>！！！撸友良心站点 关注用户体验！！！</strong></p>
+<p style="text-align: center; background: #009f95; height:auto; line-height: 40px; color:#000000; font-size: 18px;"><strong>永久地址：输入：lwdh.in即可访问 可截图收藏本页 电脑按 CTRL+D 收藏本站</strong></p>
+</div>
+<div id="footer">
+<span class="copyright">Copyright &copy; 2021 <a href="">老王福利导航</a>. All Rights Reserved. </span>
+</div>
+</body>
+</html> 
