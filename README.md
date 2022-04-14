@@ -7,4 +7,4 @@
 福利最新地址发布页https://fulifabuye.github.io/</br>
 小黄鸭导航福利最新地址发布页https://xhydh123.github.io/</br>
 水多多导航最新网址发布页https://shuiduoduo.github.io/</br>
-老王导航发布页最新网址发布页https://laowangdh.github.io/
+老王导航最新网址发布页https://laowangdh.github.io/
