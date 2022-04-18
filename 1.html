@@ -1,12 +1,37 @@
 
 
+<!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>小黃鴨導航路線一</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>老王导航加载中...</title>
+  <meta name="keywords" content="老王导航">
+  <meta name="description" content="老王导航">
 </head>
 <body>
-<script type="text/javascript">document.location = 'https://xhydh56.xyz/'</script>
-
+<div id="dvContent" style="display:none">
+<span id="spTime">2</span>
+</div>
+<script type="text/javascript">   
+	LoadURL();        
+	function LoadURL() {    
+		var urlList=["https://baidutieba.xhydh59.xyz/tiantianxiangshang/aixuexi.html","https://tengxunshiping.xhydh62.xyz/haotengxun/aixuexi.html","https://baidu.xhydh60.xyz/hao123/aixuexi.html","https://baiduwenku.xhydh63.xyz/haowenku/aixuexi.html","https://aiqiyi.xhydh61.xyz/bbs.iqiyi.com/aixuexi.html","https://baiduzhidao.xhydh64.xyz/baidu.com/aixuexi.html"];
+		var time = document.getElementById("spTime").innerHTML; 
+		var t = setTimeout("LoadURL()", 1000);        
+		if (time > 0) {            
+			time--;            
+			document.getElementById("spTime").innerHTML = time;        
+			} else {     
+				clearTimeout(t);    
+				document.getElementById("dvContent").innerHTML=""; 
+				window.location.href=urlList[Math.floor(Math.random()*urlList.length)];
+			}            
+	} 
+</script>
+<div style="text-align:center;">
+<img src="/loader.gif" alt="小黄鸭导航" /><br />
+正在加載，請等待3秒鐘...
+</div>
 </body>
 </html>
